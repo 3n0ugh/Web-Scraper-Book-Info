@@ -1,8 +1,8 @@
 ## TO-DO List
 
-- [ ] Grab the products links.
+- [ ] Grab the book links.
 
-- [ ] Go to the product links and, grab these datas:
+- [ ] Go to the book links and, grab these datas:
 
   - [ ] Book Title
   - [ ] Author
@@ -13,3 +13,5 @@
   - [ ] Edition Count
   - [ ] Language
   - [ ] Id
+
+- [ ] Insert the datas into MongoDB database.
