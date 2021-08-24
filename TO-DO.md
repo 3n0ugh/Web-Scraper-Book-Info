@@ -20,3 +20,9 @@
 - [ ] Insert the data into MongoDB database.
 
   - [ ] Make the book name unique.
+
+- [ ] Database updating:
+
+  - [ ] Check For the name
+    - [ ] Exists: Update with which price is newer.
+    - [ ] No Exists: Add as new book.
