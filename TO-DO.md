@@ -2,7 +2,10 @@
 
 - [ ] Grab the book links.
 
-- [ ] Go to the book links and, grab these datas:
+  - [ ] Create a function to grab data.
+  - [ ] Make it for first 550 page.
+
+- [ ] Go to the book links and, grab these data:
 
   - [ ] Book Title
   - [ ] Author
@@ -14,4 +17,6 @@
   - [ ] Language
   - [ ] Id
 
-- [ ] Insert the datas into MongoDB database.
+- [ ] Insert the data into MongoDB database.
+
+  - [ ] Make the book name unique.
