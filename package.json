@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon crawler.js"
+    "dev": "nodemon ./src/crawler.js"
   },
   "keywords": [],
   "author": "",

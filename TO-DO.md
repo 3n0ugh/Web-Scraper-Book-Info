@@ -16,6 +16,7 @@
   - [ ] Edition Count
   - [ ] Language
   - [ ] Id
+  - [ ] Description
 
 - [ ] Insert the data into MongoDB database.
 
