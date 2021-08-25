@@ -1,26 +1,26 @@
 ## TO-DO List
 
-- [ ] Grab the book links.
+- [#] Grab the book links.
 
   - [ ] Create a function to grab data.
   - [ ] Make it for first 550 page.
 
-- [ ] Go to the book links and, grab these data:
+- [#] Go to the book links and, grab these data:
 
-  - [ ] Book Title
-  - [ ] Author
-  - [ ] Publisher
-  - [ ] Page Count
-  - [ ] Book Size
-  - [ ] Published Year
-  - [ ] Edition Count
-  - [ ] Language
-  - [ ] Id
-  - [ ] Description
+  - [#] Book Title
+  - [#] Author
+  - [#] Publisher
+  - [#] Page Count
+  - [#] Book Size
+  - [#] Published Year
+  - [#] Edition Count
+  - [#] Language
+  - [#] Id
+  - [#] Description
 
-- [ ] Insert the data into MongoDB database.
+- [#] Insert the data into MongoDB database.
 
-  - [ ] Make the book name unique.
+  - [#] Make the book name unique.
 
 - [ ] Database updating:
 
