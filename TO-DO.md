@@ -2,8 +2,7 @@
 
 - [x] Grab the book links.
 
-  - [ ] Create a function to grab data.
-  - [ ] Make it for first 550 page.
+  - [x] Create a function to grab data.
 
 - [x] Go to the book links and, grab these data:
 
@@ -22,8 +21,4 @@
 
   - [x] Make the book name unique.
 
-- [ ] Database updating:
-
-  - [ ] Check For the name
-    - [ ] Exists: Update with which price is newer.
-    - [ ] No Exists: Add as new book.
+- [x] Error handling
