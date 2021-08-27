@@ -26,7 +26,7 @@ This module built with nodejs to getting book informations from D&R website.
   ```bash
     git clone https://github.com/3n0ugh/Web-Scraper-Book-Info.git
   ```
-* Move to the server folder and install npm packages for server.
+* Move to the folder and install npm packages.
   ```bash
     npm install
   ```
