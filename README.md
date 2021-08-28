@@ -1,17 +1,17 @@
-## Web Scraper - Book Info
+# Web Scraper - Book Info
 
-### Introduction
+## Introduction
 
 ![](https://github.com/3n0ugh/Web-Scraper/blob/main/introduction.png)
 
 This module is built with nodejs to getting book information from the D&R website.
 
-### Requirements
+## Requirements
 
 * [MongoDB](https://www.mongodb.com/try/download/community)
 * [Node](https://nodejs.org/en/)
 
-### Packages
+## Packages
 
 * [Axios](https://www.npmjs.com/package/axios)
   * Promise based HTTP client for the browser and node.js
@@ -20,7 +20,7 @@ This module is built with nodejs to getting book information from the D&R websit
 * [Monk](https://www.npmjs.com/package/monk)
   * A tiny layer that provides simple yet substantial usability improvements for MongoDB usage within Node.JS.
 
-### Instructions
+## Instructions
 
 * Clone the repository.
   ```bash
