@@ -4,7 +4,7 @@
 
 ![](https://github.com/3n0ugh/Web-Scraper/blob/main/introduction.png)
 
-This module built with nodejs to getting book informations from D&R website.
+This module is built with nodejs to getting book information from the D&R website.
 
 ### Requirements
 
@@ -30,7 +30,7 @@ This module built with nodejs to getting book informations from D&R website.
   ```bash
     npm install
   ```
-* Move to src folder than change the URL variable in app.js file with which page you want to download.
+* Move to src folder then change the URL variable in app.js file with which page you want to download.
 * Then run the program
   ```bash
     npm start
